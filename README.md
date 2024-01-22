@@ -8,7 +8,6 @@ Entrez simplement le nom de la ville et notre application vous fournira les pré
 -   HTML
 -   SCSS
 -   JavaScript
-- 
 ## Remerciements
 -   [OpenWeather](https://openweathermap.org/)
 -   Toute personne qui a contribué au code ou aux idées
@@ -18,6 +17,7 @@ Ce projet est sous licence [BeCode].
 
 ## Contact
 Ugur Firat - Ugur.firat240@gmail.com
+
 Lien du projet - https://ugur-f.github.io/WeatherApp/
 
 
